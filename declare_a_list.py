@@ -1,3 +1,4 @@
+from _typeshed import _type_checker_internals
 l=[]
 print(type(l))
 l.append(10)
@@ -13,3 +14,4 @@ print(l)
 #list elements can be accesses using index values.
 #LIST ALSO uses forwrd and bkwrd indexing.
 print(l[-1])
+print(l[-3:-1])
