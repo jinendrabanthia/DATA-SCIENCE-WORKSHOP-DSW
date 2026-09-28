@@ -13,5 +13,3 @@ print(l)
 
 #list elements can be accesses using index values.
 #LIST ALSO uses forwrd and bkwrd indexing.
-print(l[-1])
-print(l[-3:-1])
