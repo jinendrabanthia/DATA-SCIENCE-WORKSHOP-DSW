@@ -6,3 +6,6 @@ l=list({'a':25,'b':50})
 print(l)
 #when we use dictionary in a list only keys are extracted.
 #l=list(mapping)
+l=("jinendra is a good boii")
+print(l.split())
+print(l)
