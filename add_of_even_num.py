@@ -7,3 +7,5 @@ while i<len(l):
         sum+=l[i]
     i+=1
 print("sum of  even number = ",sum)    
+
+
