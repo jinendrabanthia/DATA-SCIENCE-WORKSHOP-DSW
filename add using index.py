@@ -15,3 +15,4 @@ print(l)
 #l.remove(20) removes the first occurrence of 20 from the list.
 #l.reverse() reverses the list.
 #if list is empty it gives index error
+#
