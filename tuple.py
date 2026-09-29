@@ -27,7 +27,11 @@ print(t)
 print(type(t))
 #tuple cannot be empty
 
+#even numbers using range in tuple
 o=tuple(range(0,11,2))
 print(o)
 print(type(o))
+print(o[1:4])
+print(o[-1:-4]) 
+#reverse order cant be printed
 
