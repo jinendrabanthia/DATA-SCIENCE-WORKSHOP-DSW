@@ -26,3 +26,8 @@ t=tuple('iterable object')
 print(t)
 print(type(t))
 #tuple cannot be empty
+
+o=tuple(range(0,11,2))
+print(o)
+print(type(o))
+
