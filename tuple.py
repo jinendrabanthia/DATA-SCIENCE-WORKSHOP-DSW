@@ -9,3 +9,10 @@
 t=(10,20,30,40)
 print(t)
 print(type(t))
+
+k=(10,20,'jinendra',[10,20,30])
+print(k)
+print(type(k))
+
+t=t*2
+print(t)
