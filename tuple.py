@@ -16,3 +16,13 @@ print(type(k))
 
 t=t*2
 print(t)
+#in tuple parenthesis is not mandatory
+tup1=10,20,30
+print(tup1)
+print(type(tup1))
+
+#syntax
+t=tuple('iterable object')
+print(t)
+print(type(t))
+#tuple cannot be empty
