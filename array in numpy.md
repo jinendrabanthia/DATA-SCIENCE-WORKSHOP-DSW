@@ -1,0 +1,1 @@
+An ndarray is a generic multidimentional container for homogeonous data types.

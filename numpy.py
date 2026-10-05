@@ -12,3 +12,4 @@ print("After multiplication:", l1)
 time_taken = timeit.timeit(lambda: l * 2, number=100000)
 
 print("Time taken:", time_taken, "seconds")
+
