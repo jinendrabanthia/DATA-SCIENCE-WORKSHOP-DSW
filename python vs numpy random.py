@@ -10,3 +10,7 @@ N=1000000
 
 #normalvariate method belongs to python build in random module,not numpy 
 #0-mean 1- standard deviation 
+#that can generate random numbers from diff distributions
+#default_rng() function creates random number generator in numpy 
+#default_rng.normal() method generates normal distribution random numbers 
+#this is faster and more efficient than python built in random module
