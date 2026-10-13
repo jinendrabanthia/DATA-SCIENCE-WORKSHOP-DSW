@@ -1,4 +1,4 @@
-pandas
+Pandas
 derived from panel data . in econometrics this term is used for tabular data
 the biggest difference is that pandas is designe for working with a tabular or heterogeneous data
 basic data structures in pandas:
