@@ -3,3 +3,5 @@ sd={'adi':67985346,"sus":345434878,"jay":6786876876,"raj":6786876876,"man":67868
 s=pd.Series(sd)
 s.to_dict()
 print(s)
+print(pd.isna(sd))
+print(pd.notna(sd))
