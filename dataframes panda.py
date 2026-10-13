@@ -4,4 +4,3 @@ data={"state":["delhi","gujrat","maharastra","odisha","uttarakhand"],
 "pop":[4.37,10,43,13.10,5.2,3.2]}
 df=pd.DataFrame(data)
 print(df)
- 
