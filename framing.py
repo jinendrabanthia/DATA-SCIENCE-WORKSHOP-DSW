@@ -23,3 +23,4 @@ d['BMI'] = y / x
 
 print("\nFinal DataFrame with BMI:")
 print(d)
+
