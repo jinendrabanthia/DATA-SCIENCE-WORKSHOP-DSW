@@ -6,3 +6,8 @@ print(frame)
 frame.index.names=['key1','key2']
 frame.columns.names=['state','color']
 print(frame)
+frame.swaplevel('key1','key2')
+print(frame)
+frame.sort_index(level=1)
+print(frame)
+frame.swaplevel(0,1).sort_index(level=0)
