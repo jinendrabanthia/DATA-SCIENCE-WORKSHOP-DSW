@@ -13,3 +13,4 @@ pd.cut(x,bins=y)
 
 bins = pd.IntervalIndex.from_tuples([(0,2),(2,3),(3,7)])
 pd.cut(x,bins)
+
